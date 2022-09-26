@@ -1,4 +1,4 @@
-![logo]: james-web-images.jpg "james web images - nebula"
+![alt text](james-web-images.jpg)"Logo Title Text 1")
 
  # Project Name
 
